@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/dungsil/tailwind/compare/v0.0.2...v0.0.3)
+
+### 🏡 Chore
+
+- 스코프 배포 설정 추가 ([9692ae3](https://github.com/dungsil/tailwind/commit/9692ae3))
+
+### ❤️ Contributors
+
+- 김용건 (Kim Younggeon) ([@dungsil](http://github.com/dungsil))
+
 ## v0.0.2
 
 [compare changes](https://github.com/dungsil/tailwind/compare/v0.0.1...v0.0.2)
