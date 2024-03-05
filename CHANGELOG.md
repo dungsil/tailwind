@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/dungsil/tailwind/compare/v0.0.1...v0.0.2)
+
+### 🏡 Chore
+
+- `package.json`에서 privatw 구문 제거 ([f018ee4](https://github.com/dungsil/tailwind/commit/f018ee4))
+- 릴리즈 후 퍼블리시까지 가능하도록 수정 ([0596d73](https://github.com/dungsil/tailwind/commit/0596d73))
+
+### ❤️ Contributors
+
+- 김용건 (Kim Younggeon) ([@dungsil](http://github.com/dungsil))
+
 ## v0.0.1
 
 
