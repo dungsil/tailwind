@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@dungsil/tailwind",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "repository": "https://github.com/dungsil/tailwind.git",
   "main": "lib/index.mjs",
   "types": "lib/index.d.ts",
