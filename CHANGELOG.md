@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.1.2
+
+[compare changes](https://github.com/dungsil/tailwind/compare/v0.1.0...v0.1.2)
+
+### 🩹 Fixes
+
+- 타입 오류 해결 ([6035753](https://github.com/dungsil/tailwind/commit/6035753))
+
+### ❤️ Contributors
+
+- 김용건 (Kim Younggeon) ([@dungsil](http://github.com/dungsil))
+
 ## v0.1.0
 
 [compare changes](https://github.com/dungsil/tailwind/compare/v0.0.5...v0.1.0)
