@@ -1,13 +1,10 @@
 import { getIconCollections, iconsPlugin } from '@egoist/tailwindcss-icons'
-import defu from 'defu'
+import { defu } from 'defu'
 import { fontFamily } from 'tailwindcss/defaultTheme'
+import type { Config } from 'tailwindcss'
 
-/**
- * Default TailWind Config
- *
- * @type { import('tailwindcss').Config }
- */
-const defaultConfig = {
+const defaultConfig: Config = {
+  content: ['./src/**/*.{js,ts,jsx,tsx,vue,astro,svelte}'],
   plugins: [
     iconsPlugin({
       collections: getIconCollections(['lucide', 'simple-icons']),
@@ -42,12 +39,7 @@ const defaultConfig = {
   },
 }
 
-/**
- * @dungsil/tailwind
- *
- * @param {import('tailwindcss').Config} additional additional tailwind config
- */
-export const dungsilPreset = (additional) => defu(
+export const dungsilPreset = (additional?: Config): Config => defu(
   additional,
   defaultConfig,
 )
