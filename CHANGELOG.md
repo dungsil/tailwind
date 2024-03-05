@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://github.com/dungsil/tailwind/compare/v0.0.4...v0.0.5)
+
+### 🏡 Chore
+
+- **types:** 잘못된 타입 정의 수정 ([803b714](https://github.com/dungsil/tailwind/commit/803b714))
+- **types:** 잘못된 타입 정의 수정 ([612db4e](https://github.com/dungsil/tailwind/commit/612db4e))
+
+### ❤️ Contributors
+
+- 김용건 (Kim Younggeon) ([@dungsil](http://github.com/dungsil))
+
 ## v0.0.4
 
 [compare changes](https://github.com/dungsil/tailwind/compare/v0.0.3...v0.0.4)
