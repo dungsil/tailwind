@@ -4,6 +4,7 @@
   "version": "0.0.3",
   "repository": "https://github.com/dungsil/tailwind.git",
   "main": "lib/index.mjs",
+  "types": "lib/index.d.ts",
   "scripts": {
     "dev": "vite playground",
     "release": "changelogen --release --push && pnpm publish"
