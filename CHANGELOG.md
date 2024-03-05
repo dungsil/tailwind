@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/dungsil/tailwind/compare/v0.0.3...v0.0.4)
+
+### 🏡 Chore
+
+- Add renovate.json ([#1](https://github.com/dungsil/tailwind/pull/1))
+- **types:** 타입 정의 파일 추가 ([6626885](https://github.com/dungsil/tailwind/commit/6626885))
+
+### ❤️ Contributors
+
+- 김용건 (Kim Younggeon) ([@dungsil](http://github.com/dungsil))
+
 ## v0.0.3
 
 [compare changes](https://github.com/dungsil/tailwind/compare/v0.0.2...v0.0.3)
