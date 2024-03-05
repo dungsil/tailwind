@@ -1,3 +1,1 @@
-declare function dungsilPreset (additional: Partial<import('tailwindcss').Config>): import('tailwindcss').Config;
-
-export = dungsilPreset;
+export declare function dungsilPreset (additional?: Partial<import('tailwindcss').Config>): import('tailwindcss').Config;
