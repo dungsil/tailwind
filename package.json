@@ -6,7 +6,8 @@
   "repository": "https://github.com/dungsil/tailwind.git",
   "main": "lib/index.mjs",
   "scripts": {
-    "dev": "vite playground"
+    "dev": "vite playground",
+    "release": "changelogen --release --push"
   },
   "dependencies": {
     "@egoist/tailwindcss-icons": "^1.7.4",
@@ -15,6 +16,7 @@
     "defu": "^6.1.4"
   },
   "devDependencies": {
+    "changelogen": "^0.5.5",
     "tailwindcss": "^3.4.1"
   },
   "peerDependencies": {
