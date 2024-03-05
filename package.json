@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "@dungsil/tailwind",
+  "version": "0.0.0",
+  "repository": "https://github.com/dungsil/tailwind.git",
+  "main": "lib/index.mjs",
+  "scripts": {
+    "dev": "vite playground"
+  },
+  "dependencies": {
+    "@egoist/tailwindcss-icons": "^1.7.4",
+    "@iconify-json/lucide": "^1.1.171",
+    "@iconify-json/simple-icons": "^1.1.94",
+    "defu": "^6.1.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  }
+}
